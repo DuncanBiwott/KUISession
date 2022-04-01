@@ -1,2 +1,2 @@
-#this is a dummy program
+print("Welcome to KUI Session")
 print("Hello KUISession")
